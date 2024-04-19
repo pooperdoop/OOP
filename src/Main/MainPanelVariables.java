@@ -28,6 +28,7 @@ public class MainPanelVariables extends MainClass{
     
 	
 	 public BufferedImage Human, Elf, Demon, Dwarf, Hero, Rouge, HighElves, DarkElves, ArchDemons, Youkai, Warrior, Smith, BG;
+	 public int test;
 	 public int smallGap = 25;
 	 public int largeGap = 150;
 	 public int miniPanelY = 1300;
